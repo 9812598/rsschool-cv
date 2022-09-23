@@ -16,6 +16,8 @@ I am positive and sociable. I love making websites and apps for people.
 * React
 * HTML
 * CSS
+* Wordpress
+
 ====
 ## Some code
 ```
