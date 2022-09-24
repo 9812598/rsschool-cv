@@ -1,1 +1,1 @@
-# rsschool-cv
+https://9812598.github.io/rsschool-cv/
