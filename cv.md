@@ -3,9 +3,11 @@
 
 ![Kobelev Aleksandr](/img/kobelev.jpg)
 ====
+
 ## Contacts
+
 **tel:** +79817248699
-**mail:**9812598@gmail.com
+**mail:** 9812598@gmail.com
 ====
 ## About
 I am positive and sociable. I love making websites and apps for people.
@@ -23,7 +25,9 @@ function solution(str, ending){
   return str.endsWith(ending);
 } 
 ```
+
 ====
+
 ## Experience
 For the last five years I have worked as a marketer.
 I sometimes made websites.
