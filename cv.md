@@ -3,7 +3,13 @@
 
 ![Kobelev Aleksandr](/img/kobelev.jpg)
 ====
+
 ## Contacts
+
+
+**tel:** +79817248699
+**mail:** 9812598@gmail.com
+====
 
 **tel:** 89817248699
 
@@ -11,6 +17,7 @@
 **mail:** 9812598@gmail.com
 
 ---
+
 ## About
 
 
@@ -31,6 +38,7 @@ function solution(str, ending){
   return str.endsWith(ending);
 } 
 ```
+
 ---
 ## Experience
 
